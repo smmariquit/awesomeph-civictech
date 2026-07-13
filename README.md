@@ -13,8 +13,13 @@ Curated civic technology for the Philippines: public platforms and projects that
 
 ## Platforms & public data
 
+- **[DBM OpenBudget](https://www.dbm.gov.ph/index.php/dbm-open-budget-portal)**: Government platform for browsing national budget documents, allocations, obligations, and disbursements.
 - **[Electronic FOI Philippines](https://www.foi.gov.ph/en/)**: Government portal for filing and browsing Freedom of Information requests to participating agencies.
+- **[Geoportal Philippines](https://geoportal.gov.ph/)**: NAMRIA's mapping hub for finding, viewing, and downloading Philippine government geospatial data.
+- **[GeoRiskPH GeoAnalytics](https://geoanalytics.georisk.gov.ph/)**: Government hazard and exposure analysis portal for disaster-risk planning.
 - **[Open Data Philippines](https://data.gov.ph/)**: DICT-operated portal for government datasets and open-data initiatives.
+- **[PSA OpenSTAT](https://openstat.psa.gov.ph/)**: Philippine Statistics Authority database for official demographic, social, economic, and environmental statistics.
+- **[PhilGEPS](https://notices.philgeps.gov.ph/)**: Central portal for Philippine government procurement opportunities and notices.
 
 ## Open source & independent projects
 
