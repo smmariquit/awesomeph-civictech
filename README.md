@@ -13,7 +13,9 @@ Curated civic technology for the Philippines: public platforms and projects that
 
 ## Platforms & public data
 
+- **[8888 Citizens' Complaint Hotline](https://8888.gov.ph/)**: Government hotline and portal for filing complaints about corrupt or unresponsive public offices, routed to the concerned agency for resolution.
 - **[DBM OpenBudget](https://www.dbm.gov.ph/index.php/dbm-open-budget-portal)**: Government platform for browsing national budget documents, allocations, obligations, and disbursements.
+- **[eGovPH](https://e.gov.ph/)**: National government portal consolidating driver's license renewal, tax payments, permits, and other agency transactions into one account.
 - **[Electronic FOI Philippines](https://www.foi.gov.ph/en/)**: Government portal for filing and browsing Freedom of Information requests to participating agencies.
 - **[Geoportal Philippines](https://geoportal.gov.ph/)**: NAMRIA's mapping hub for finding, viewing, and downloading Philippine government geospatial data.
 - **[GeoRiskPH GeoAnalytics](https://geoanalytics.georisk.gov.ph/)**: Government hazard and exposure analysis portal for disaster-risk planning.
@@ -24,8 +26,10 @@ Curated civic technology for the Philippines: public platforms and projects that
 ## Open source & independent projects
 
 - **[Barangay Boundaries Repository](https://github.com/bendlikeabamboo/barangay-boundaries-repository)**: Enriched GeoJSON boundaries and PSGC linked data for Philippine barangays, municipalities, cities, provinces, and regions.
+- **[BetterGov.ph](https://bettergov.ph/)**: Volunteer-built directory linking citizens to Philippine government agencies, services, and public data in one searchable site.
 - **[CivikAI](https://github.com/smmariquit/civik-ai)**: Gemini-powered prototype that explains Philippine civic issues, bills, and government services in plain language.
 - **[OpenGovChain](https://govchain.bettergov.ph/whitepaper)**: Open-source, tokenless infrastructure for publishing procurement, infrastructure, and budget data with an auditable history. The project is in draft.
+- **[Project CCHAIN](https://github.com/thinkingmachines/project-cchain)**: Open, validated barangay-level dataset linking 20 years of health, climate, environment, and socioeconomic data across 12 Philippine cities.
 
 ---
 
