@@ -22,6 +22,8 @@ Curated civic technology for the Philippines: public platforms and projects that
 - **[Open Data Philippines](https://data.gov.ph/)**: DICT-operated portal for government datasets and open-data initiatives.
 - **[PSA OpenSTAT](https://openstat.psa.gov.ph/)**: Philippine Statistics Authority database for official demographic, social, economic, and environmental statistics.
 - **[PhilGEPS](https://notices.philgeps.gov.ph/)**: Central portal for Philippine government procurement opportunities and notices.
+- **[QCitizen Data](https://qceservices.quezoncity.gov.ph/)**: Quezon City government dashboards for tracking local budget spending and infrastructure projects, plus a tool for residents to file non-emergency service reports.
+- **[Sumbong sa Pangulo](https://sumbongsapangulo.ph/)**: Government portal where citizens report suspected anomalies in public infrastructure projects directly to the Office of the President.
 
 ## Open source & independent projects
 
@@ -29,6 +31,8 @@ Curated civic technology for the Philippines: public platforms and projects that
 - **[BetterGov.ph](https://bettergov.ph/)**: Volunteer-built directory linking citizens to Philippine government agencies, services, and public data in one searchable site.
 - **[CivikAI](https://github.com/smmariquit/civik-ai)**: Gemini-powered prototype that explains Philippine civic issues, bills, and government services in plain language.
 - **[OpenGovChain](https://govchain.bettergov.ph/whitepaper)**: Open-source, tokenless infrastructure for publishing procurement, infrastructure, and budget data with an auditable history. The project is in draft.
+- **[PH Civic Data MCP](https://github.com/xmpuspus/ph-civic-data-mcp)**: Open-source MCP server exposing PSA statistics, PAGASA weather, PHIVOLCS hazards, and PhilGEPS procurement data as tools for developers and AI agents.
+- **[PH Corpus](https://github.com/policyobservatory/ph-corpus)**: Open, structured collection of Philippine legislative documents from the House of Representatives and Senate for researchers and developers tracking bills and policy.
 - **[Project CCHAIN](https://github.com/thinkingmachines/project-cchain)**: Open, validated barangay-level dataset linking 20 years of health, climate, environment, and socioeconomic data across 12 Philippine cities.
 
 ---
