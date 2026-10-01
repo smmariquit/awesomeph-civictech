@@ -27,7 +27,11 @@ Curated civic technology for the Philippines: public platforms and projects that
 
 - **[Barangay Boundaries Repository](https://github.com/bendlikeabamboo/barangay-boundaries-repository)**: Enriched GeoJSON boundaries and PSGC linked data for Philippine barangays, municipalities, cities, provinces, and regions.
 - **[BetterGov.ph](https://bettergov.ph/)**: Volunteer-built directory linking citizens to Philippine government agencies, services, and public data in one searchable site.
+- **[BetterGov Transparency Dashboard](https://transparency.bettergov.ph/)**: Volunteer-built search tool for exploring millions of Philippine government procurement contracts, tax, and budget records.
 - **[CivikAI](https://github.com/smmariquit/civik-ai)**: Gemini-powered prototype that explains Philippine civic issues, bills, and government services in plain language.
+- **[FloodWatch.PH](https://github.com/xmpuspus/floodwatch-ph)**: Open, reproducible satellite flood mapping that checks whether DPWH flood-control project spending actually reduced flooding in the areas it funded.
+- **[Open Budget Data](https://github.com/bettergovph/open-budget-data)**: Open-source pipeline converting Philippine national budget (NEP/GAA) data into a queryable graph database covering fiscal years 2020 to 2026.
+- **[Open Congress Data](https://github.com/bettergovph/open-congress-data)**: Community-maintained open dataset tracking Philippine representatives, senators, bills, and voting records across multiple congresses.
 - **[OpenGovChain](https://govchain.bettergov.ph/whitepaper)**: Open-source, tokenless infrastructure for publishing procurement, infrastructure, and budget data with an auditable history. The project is in draft.
 - **[Project CCHAIN](https://github.com/thinkingmachines/project-cchain)**: Open, validated barangay-level dataset linking 20 years of health, climate, environment, and socioeconomic data across 12 Philippine cities.
 
